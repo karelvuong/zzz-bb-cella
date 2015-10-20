@@ -1,0 +1,8 @@
+<model>
+  <item title="Introduction" description="About cella and its purpose." img="asset:///images/icons/help/icon-introduction.png"/>
+  <item title="Comparison" description="Differences between rooms, locations and items." img="asset:///images/icons/help/icon-comparison.png"/>
+  <item title="Dashboard" description="Explanation of its elements." img="asset:///images/icons/help/icon-dashboard.png"/>
+  <item title="Rooms" description="The space that is occupied by locations and items." img="asset:///images/icons/help/icon-room.png"/>
+  <item title="Locations" description="The enclosure that items are found in/on." img="asset:///images/icons/help/icon-location.png"/>
+  <item title="Items" description="Everything else." img="asset:///images/icons/help/icon-item.png"/>
+</model>

@@ -1,0 +1,48 @@
+<model>
+  <header title="B">
+    <item title="Basket" img ="asset:///images/locations/basket.png" />
+    <item title="Bin" img ="asset:///images/locations/bin.png" />
+    <item title="Bookshelf (1)" img ="asset:///images/locations/bookshelf1.png" />
+    <item title="Bookshelf (2)" img ="asset:///images/locations/bookshelf2.png" />
+    <item title="Box" img ="asset:///images/locations/box.png" />
+  </header>
+  <header title="C">
+    <item title="Cabinet" img ="asset:///images/locations/cabinet.png" />
+    <item title="Closet" img ="asset:///images/locations/closet.png" />
+    <item title="Compartment" img ="asset:///images/locations/tray.png" />
+    <item title="Cupboard" img ="asset:///images/locations/cupboard.png" />
+  </header>
+  <header title="D">
+    <item title="Drawer" img ="asset:///images/locations/drawer.png" />
+    <item title="Dresser" img ="asset:///images/locations/dresser.png" />
+  </header>
+  <header title="E">
+    <item title="End Table" img ="asset:///images/locations/table.png" />
+  </header>
+  <header title="F">
+    <item title="Floor" img ="asset:///images/locations/floor.png" />
+    <item title="Freezer" img ="asset:///images/locations/freezer.png" />
+  </header>
+  <header title="L">
+    <item title="Location" img ="asset:///images/locations/location.png" />
+    <item title="Locker" img ="asset:///images/locations/locker.png" />
+  </header>
+  <header title="R">
+    <item title="Rack" img ="asset:///images/locations/rack.png" />
+    <item title="Refrigerator" img ="asset:///images/locations/refrigerator.png" />
+  </header>
+  <header title="S">
+    <item title="Safe" img ="asset:///images/locations/locker.png" />
+    <item title="Safety Deposit Box" img ="asset:///images/locations/safetybox.png" />
+    <item title="Shed" img ="asset:///images/locations/shed.png" />
+    <item title="Shelf" img ="asset:///images/locations/shelf.png" />
+    <item title="Shoe Rack" img ="asset:///images/locations/shoerack.png" />
+  </header>
+  <header title="T">
+    <item title="Table" img ="asset:///images/locations/table.png" />
+    <item title="Tray" img ="asset:///images/locations/tray.png" />
+  </header>
+  <header title="W">
+    <item title="Wardrobe" img ="asset:///images/locations/wardrobe.png" />
+  </header>
+</model>

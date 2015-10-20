@@ -1,0 +1,8 @@
+<model>
+  <header title="What is it?">
+    <item title="Description" />
+  </header>
+  <header title="Where is it?">
+    <item title="Position" />
+  </header>
+</model>

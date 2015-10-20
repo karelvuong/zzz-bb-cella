@@ -1,0 +1,41 @@
+<model>
+  <header title="A">
+    <item title="Attic" img ="asset:///images/rooms/attic.png" />
+  </header>
+  <header title="B">
+    <item title="Backyard" img ="asset:///images/rooms/yard.png" />
+    <item title="Balcony" img ="asset:///images/rooms/balcony.png" />
+    <item title="Bathroom" img ="asset:///images/rooms/bathroom.png" />
+    <item title="Bedroom" img ="asset:///images/rooms/bedroom.png" />
+  </header>
+  <header title="D">
+    <item title="Den" img ="asset:///images/rooms/study.png" />
+    <item title="Dining Room" img ="asset:///images/rooms/diningroom.png" />
+  </header>
+  <header title="F">
+    <item title="Family Room" img ="asset:///images/rooms/familyroom.png" />
+  </header>
+  <header title="G">
+    <item title="Garage" img ="asset:///images/rooms/garage.png" />
+    <item title="Garden" img ="asset:///images/rooms/yard.png" />
+  </header>
+  <header title="H">
+    <item title="Hallway" img ="asset:///images/rooms/hallway.png" />
+  </header>
+  <header title="K">
+    <item title="Kitchen" img ="asset:///images/rooms/kitchen.png" />
+  </header>
+  <header title="L">
+    <item title="Library" img ="asset:///images/rooms/library.png" />
+    <item title="Living Room" img ="asset:///images/rooms/livingroom.png" />
+  </header>
+  <header title="S">
+    <item title="Study" img ="asset:///images/rooms/study.png" />
+  </header>
+  <header title="W">
+    <item title="Washroom" img ="asset:///images/rooms/bathroom.png" />
+  </header>
+  <header title="Y">
+    <item title="Yard" img ="asset:///images/rooms/yard.png" />
+  </header>
+</model>

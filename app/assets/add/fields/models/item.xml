@@ -1,0 +1,36 @@
+<model>
+  <header title="What is it?">
+    <item title="Brand" />
+    <item title="Description" />
+    <item title="Model Number" />
+    <item title="Serial Number" />
+    <item title="Version" />
+  </header>
+  <header title="Food Related Information?">
+    <item title="Capacity" />
+    <item title="Expiry Date" />
+  </header>
+  <header title="Media Related Information?">
+    <item title="Artist" />
+    <item title="Author" />
+    <item title="Genre" />
+    <item title="Year" />
+  </header>
+  <header title="Purchase Information?">
+    <item title="Date" />
+    <item title="Location" />
+    <item title="Method" />
+    <item title="Notes" type="Purchase" />
+    <item title="Price" />
+  </header>
+  <header title="Does it have warranty?">
+    <item title="Contact Name" />
+    <item title="Duration" />
+    <item title="Phone Number" />
+    <item title="Phone Number (Alt.)" />
+    <item title="Notes" type="Warranty" />
+  </header>
+  <header title="More Information?">
+    <item title="Notes" type="More" />
+  </header>
+</model>
